@@ -25,3 +25,4 @@
 /home/ubuntu/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/ref/LambdaDemo.dll
 /home/ubuntu/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/linux-x64/AWSSDK.Core.dll
 /home/ubuntu/LambdaDemo/src/LambdaDemo/bin/Release/net6.0/linux-x64/AWSSDK.SecretsManager.dll
+/home/ubuntu/LambdaDemo/src/LambdaDemo/obj/Release/net6.0/linux-x64/LambdaDemo.sourcelink.json

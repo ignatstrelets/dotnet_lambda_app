@@ -76,9 +76,6 @@ public class Function
             
             Console.WriteLine(connectionString);
 
-            //var sql = "SELECT version();";
-            //using var cmd = new NpgsqlCommand(sql, connection);
-    
             try
             {
                 connection.Open();
